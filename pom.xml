@@ -10,7 +10,7 @@
 	<packaging>jar</packaging>
 
 	<name>demoCrudEmployeeApp</name>
-	<description>Demo project for Spring Boot</description>
+	<description>Demo project for perfoming crud operation using Spring Boot+ mongodb+anagular4 in UI</description>
 
 	<parent>
 		<groupId>org.springframework.boot</groupId>
